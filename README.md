@@ -21,7 +21,7 @@ It combines:
 ### 1) Clone the repository
 
 ```bash
-git clone https://github.com/FrondEnt/PolymarketBTC15mAssistant.git
+https://github.com/oleg-dsw2e/PolymarketBOT.git
 ```
 
 Alternative (no git):
